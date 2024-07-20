@@ -4,5 +4,5 @@
 screen -R Rivalz
 ```
 ```
-wget https://raw.githubusercontent.com/Winnode/Rivalz/main/Rivalz.sh && chmod +x Rivalz.sh && ./Rivalz.sh
+wget https://raw.githubusercontent.com/dlzvy/rivalz/main/rivalz.sh && chmod +x rivalz.sh && ./rivalz.sh
 ```
