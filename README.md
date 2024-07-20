@@ -1,5 +1,5 @@
 ## This script for automatic install
-```
+
 ## Install
 ```
 screen -R rivalz
