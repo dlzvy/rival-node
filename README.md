@@ -4,5 +4,5 @@
 screen -R rivalz
 ```
 ```
-wget https://raw.githubusercontent.com/dlzvy/rivalz/main/rivalz.sh && chmod +x rivalz.sh && ./rivalz.sh
+wget https://raw.githubusercontent.com/dlzvy/rival-node/main/rivalz.sh && chmod +x rivalz.sh && ./rivalz.sh
 ```
